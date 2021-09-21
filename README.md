@@ -1,1 +1,1 @@
-# S-D-I Small projects using CSS
+# Projects using HTML, CSS & Javascript
