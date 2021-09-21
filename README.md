@@ -1,1 +1,1 @@
-# S-D-I Creating a search box, diamond & heart using CSS
+# S-D-I Small projects using CSS
