@@ -14,3 +14,13 @@ body {
   border-radius: 40px;
   padding: 10px;
 }
+.search-button {
+  color: #e84118;
+  float: right;
+  width: 40px;
+  border-radius: 50%;
+  background: #2f3640;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
