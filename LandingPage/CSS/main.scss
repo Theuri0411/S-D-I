@@ -1,4 +1,14 @@
-$colors:{
-    primary: #005dff,
-    accent: #fff6bb
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap");
+
+$colors: (
+  primary: #005dff,
+  accent: #fff6bb,
+);
+body,
+html {
+  height: 100%;
+}
+body {
+  font-family: "Montserrat", sans-serif;
+  background-color: map-get($colors, primary);
 }
