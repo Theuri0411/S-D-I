@@ -4,6 +4,9 @@ $colors: (
   primary: #005dff,
   accent: #fff6bb,
 );
+@function color($color-name) {
+  @return map-get($colors, $colors-name);
+}
 body,
 html {
   height: 100%;
