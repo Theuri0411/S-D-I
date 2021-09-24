@@ -8,8 +8,9 @@ $colors: (
   accent: #fff6bb,
 );
 @function color($color-name) {
-  @return map-get($colors, $colors-name);
+  @return map-get($colors, $color-name);
 }
+
 body,
 html {
   height: 100%;
