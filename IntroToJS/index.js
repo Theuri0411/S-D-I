@@ -38,3 +38,9 @@ class Chef {
 
 var myItalianChef = new italianChef ("Hell's Kitchen", 60);
 myItalianChef.makeSpecialDish();
+
+
+var name = window.prompt ("Please ENter Name: ");
+alert ("Your Name is " + name);
+
+
